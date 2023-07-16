@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vyankatesh-2108&label=Profile%20views&color=0e75b6&style=flat" alt="vyankatesh-2108" /> </p>
 
 <p align="center">
-  <p align="center">- 🌱 I’m currently learning **Full Stack Development**</p><br>
-  <p align="center">- 👯 I’m looking to collaborate on **GitHub**</p><br>
-  <p align="center">- 🤝 I’m looking for help with **Web Development**</p><br>
-  <p align="center">- 💬 Ask me about **Web Development**</p><br>
-  <p align="center">- 📫 How to reach me **vyankateshkhetri07@gmail.com**</p><br>
+  <p align="center">- 🌱 I’m currently learning **Full Stack Development**</p>
+  <p align="center">- 👯 I’m looking to collaborate on **GitHub**</p>
+  <p align="center">- 🤝 I’m looking for help with **Web Development**</p>
+  <p align="center">- 💬 Ask me about **Web Development**</p>
+  <p align="center">- 📫 How to reach me **vyankateshkhetri07@gmail.com**</p>
 </p>
 
 <h3 align="center">Connect with me:</h3>

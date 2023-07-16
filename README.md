@@ -26,8 +26,8 @@
 
 <h3 align="left">Matrix:</h3>
 
-<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyankatesh-2108&show_icons=true&locale=en&layout=compact" alt="vyankatesh-2108" /></p>
+<p><img align="center" width="100%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyankatesh-2108&show_icons=true&locale=en&layout=compact" alt="vyankatesh-2108" /></p>
 
-<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=vyankatesh-2108&show_icons=true&locale=en" alt="vyankatesh-2108" /></p>
+<p>&nbsp;<img align="center" width="100%" height="300px" src="https://github-readme-stats.vercel.app/api?username=vyankatesh-2108&show_icons=true&locale=en" alt="vyankatesh-2108" /></p>
 
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vyankatesh-2108&" alt="vyankatesh-2108" /></p>
+<p><img align="center" width="100%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=vyankatesh-2108&" alt="vyankatesh-2108" /></p>

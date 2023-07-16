@@ -3,15 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vyankatesh-2108&label=Profile%20views&color=0e75b6&style=flat" alt="vyankatesh-2108" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 👯 I’m looking to collaborate on **GitHub**
-
-- 🤝 I’m looking for help with **Web Development**
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **vyankateshkhetri07@gmail.com**
+<p align="center">
+  <p align="center">- 🌱 I’m currently learning **Full Stack Development**</p><br><br>
+  <p align="center">- 👯 I’m looking to collaborate on **GitHub**</p><br><br>
+  <p align="center">- 🤝 I’m looking for help with **Web Development**</p><br><br>
+  <p align="center">- 💬 Ask me about **Web Development**</p><br><br>
+  <p align="center">- 📫 How to reach me **vyankateshkhetri07@gmail.com**</p><br><br>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -28,6 +26,6 @@
 
 <p><img align="center" width="100%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyankatesh-2108&show_icons=true&locale=en&layout=compact" alt="vyankatesh-2108" /></p>
 
-<p>&nbsp;<img align="center" width="100%" height="210px" src="https://github-readme-stats.vercel.app/api?username=vyankatesh-2108&show_icons=true&locale=en" alt="vyankatesh-2108" /></p>
+<p><img align="center" width="100%" height="210px" src="https://github-readme-stats.vercel.app/api?username=vyankatesh-2108&show_icons=true&locale=en" alt="vyankatesh-2108" /></p>
 
 <p><img align="center" width="100%" height="210px" src="https://github-readme-streak-stats.herokuapp.com/?user=vyankatesh-2108&" alt="vyankatesh-2108" /></p>

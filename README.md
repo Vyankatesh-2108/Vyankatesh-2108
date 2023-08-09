@@ -3,12 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vyankatesh-2108&label=Profile%20views&color=0e75b6&style=flat" alt="vyankatesh-2108" /> </p>
 
-<p align="center">
-  <p align="center">- 🌱 I’m currently learning **Full Stack Development**</p>
-  <p align="center">- 👯 I’m looking to collaborate on **GitHub**</p>
-  <p align="center">- 🤝 I’m looking for help with **Web Development**</p>
-  <p align="center">- 💬 Ask me about **Web Development**</p>
-  <p align="center">- 📫 How to reach me **vyankateshkhetri07@gmail.com**</p>
+<p>
+  <p align="center">🌱 I’m currently learning **Full Stack Development**</p>
+  <p align="center">👯 I’m looking to collaborate on **GitHub**</p>
+  <p align="center">🤝 I’m looking for help with **Web Development**</p>
+  <p align="center">💬 Ask me about **Web Development**</p>
+  <p align="center">📫 How to reach me **vyankateshkhetri07@gmail.com**</p>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/linkedin.com/in/vyankatesh-khetri-55994922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vyankatesh-khetri-55994922b" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/vyankateshkhetr1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vyankateshkhetr1?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/vyankateshkhetri07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vyankateshkhetri07/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vyankateshkhetri07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vyankateshkhetri07" height="30" width="40" /></a>
+</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

@@ -4,7 +4,7 @@
    - 🌱 I’m currently learning **Full Stack Development**<br>
    - 👯 I’m looking to collaborate on **GitHub**<br>
    - 🤝 I’m looking for help with **Web Development**<br>
-   - 💬 Ask me about **Web Development**<br>
+   - 💬 Ask me about **Java and DSA**<br>
    - 📫 How to reach me **vyankateshkhetri07@gmail.com**<br>
 
 

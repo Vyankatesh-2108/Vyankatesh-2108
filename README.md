@@ -12,7 +12,7 @@
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/linkedin.com/in/vyankatesh-khetri-55994922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vyankatesh-khetri-55994922b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/vyankatesh-khetri-55994922b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[vyankatesh-khetri-55994922b](https://www.linkedin.com/in/vyankatesh-khetri-55994922b/)" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vyankateshkhetr1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vyankateshkhetr1?hr_r=1" height="30" width="40" /></a>
 <a href="https://leetcode.com/vyankateshkhetri07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vyankateshkhetri07/" height="30" width="40" /></a>
 </a>

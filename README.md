@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Vyankatesh</h1>
 <img src="https://komarev.com/ghpvc/?username=vyankatesh-2108&label=Profile%20views&color=0e75b6&style=flat" alt="vyankatesh-2108" />
 
-   - 🌱 I’m currently learning **Full Stack Development**<br>
+   - 🌱 I’m currently learning **React**<br>
    - 👯 I’m looking to collaborate on **GitHub**<br>
    - 🤝 I’m looking for help with **Web Development**<br>
    - 💬 Ask me about **Java and DSA**<br>

@@ -32,15 +32,35 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,vscode,github,figma,git" /><br>
 </div>
 
 <br/>
+
+<h2 align="center">⚒️ Front-End ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
+</div>
+
+<br/>
+
+
+<h2 align="center">⚒️ Back-End ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql" /><br>
+</div>
+
+<br/>
+
+
+
+
+
 <hr/>
 
 

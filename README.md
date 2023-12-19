@@ -53,14 +53,12 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vyankatesh-2108&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<br/>
 
 <hr/>
 
-<br/>
-
-<div align="center">
-<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='' border='0' alt='Thank You' /></a>
-</div>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=300&height=50&duration=4000&lines=Thank+You!+👋;" />
+</h1>
 
 <br/>

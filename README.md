@@ -9,7 +9,7 @@
 
 <br/>
 
-<div>
+<div align="stretch">
 
 I am a **dedicated and versatile** software developer who is passionate about creating **immersive** and **user-centric** digital experiences. With my technical proficiency, creative mindset, and commitment to excellence, I am confident in my ability to contribute to the success of any software development project.
 In addition to my technical skills, I am a problem solver and possess a strong analytical mindset. I am constantly seeking opportunities to enhance my skills and stay up-to-date with the latest industry trends and best practices
@@ -29,9 +29,9 @@ In addition to my technical skills, I am a problem solver and possess a strong a
   </a>
 </div>
 
- <hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
@@ -40,10 +40,10 @@ In addition to my technical skills, I am a problem solver and possess a strong a
 </div>
 <br/>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vyankatesh-2108&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -54,7 +54,7 @@ In addition to my technical skills, I am a problem solver and possess a strong a
 
 <br/>
 
-<hr/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=300&height=50&duration=4000&lines=Thank+You!+👋;" />

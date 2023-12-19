@@ -9,12 +9,11 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **React**
-👯 I’m looking to collaborate on **GitHub**
- 🌱 I’m currently learning **Python**
-💬 Ask me about **React, Java and DSA**
+<div>
+
+I am a **dedicated and versatile** software developer who is passionate about creating **immersive** and **user-centric** digital experiences. With my technical proficiency, creative mindset, and commitment to excellence, I am confident in my ability to contribute to the success of any software development project.
+In addition to my technical skills, I am a problem solver and possess a strong analytical mindset. I am constantly seeking opportunities to enhance my skills and stay up-to-date with the latest industry trends and best practices
+
 
  </div>
  

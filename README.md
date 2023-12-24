@@ -34,9 +34,9 @@ In addition to my technical skills, I am a problem solver and possess a strong a
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,vscode,github,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,spring" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,vscode,github,figma,git,androidstudio,postman" /><br>
 </div>
 <br/>
 
